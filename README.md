@@ -1,3 +1,2 @@
-# Health Insurance Selection & Medication Assistance Tool
-# (HISMAT)
+# Health Insurance Selection & Medication Assistance Tool (HISMAT)
 In Development
